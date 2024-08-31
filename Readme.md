@@ -55,7 +55,11 @@ To run a notebook, open it and execute the cells in order. You can run a cell by
 
 ## Results
 
-[TBD: Include some sample results or visualizations if available]
+- Forward Process:
+
+![alt text](image.png)
+
+![alt text](diffusion.gif)
 
 ## Contributing
 
